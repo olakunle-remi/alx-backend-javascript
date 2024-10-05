@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "alx-backend-javascript",
   "main": "0-constants.js",
+  "type": "module",  
   "scripts": {
     "test": "jest",
     "lint": "./node_modules/.bin/eslint",
@@ -30,3 +31,4 @@
     "jest": "^24.9.0"
   }
 }
+
